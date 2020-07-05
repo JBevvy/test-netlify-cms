@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: JBevvy/test-netlify-cms
 
 media_folder: static/assets
 public_folder: /assets
